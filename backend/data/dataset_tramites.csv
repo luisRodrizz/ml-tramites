@@ -1,0 +1,181 @@
+id,tipo_tramite,area,urgencia,documentos_completos,descripcion,descripcion_len,observaciones_previas,reclamos_previos,estado,prioridad,tiempo_estimado
+1,Solicitud de acceso a información,Secretaría general,Baja,True,Consulta sobre expediente administrativo.,41,0,0,Rechazado,Baja,12
+2,Reclamo ciudadano,Atención ciudadana,Baja,True,Reclamo por demora en atención de expediente previo.,52,1,0,Aprobado,Baja,18
+3,Constancia municipal,Secretaría general,Alta,True,Emisión de constancia municipal simple.,39,2,0,En revisión,Media,10
+4,Trámite de catastro,Catastro,Baja,True,Actualización de datos catastrales del predio.,46,2,0,Aprobado,Media,11
+5,Licencia de funcionamiento,Mesa de partes,Alta,True,Regularización de licencia municipal para establecimiento.,58,2,0,Observado,Alta,4
+6,Permiso de construcción,Mesa de partes,Alta,False,Solicitud de autorización para construcción menor.,50,2,0,Aprobado,Alta,10
+7,Permiso de construcción,Mesa de partes,Media,True,Revisión de expediente técnico para obra.,41,0,0,En revisión,Media,7
+8,Reclamo ciudadano,Secretaría general,Baja,False,Queja por falta de respuesta en trámite municipal.,50,1,0,Aprobado,Media,9
+9,Reclamo ciudadano,Secretaría general,Baja,False,Reclamo por demora en atención de expediente previo.,52,1,0,En revisión,Media,15
+10,Trámite de catastro,Catastro,Baja,True,Solicitud de certificado catastral.,35,0,0,Observado,Baja,17
+11,Permiso de construcción,Desarrollo urbano,Media,True,Revisión de expediente técnico para obra.,41,0,0,Observado,Media,7
+12,Reclamo ciudadano,Atención ciudadana,Media,True,Solicitud de revisión por observación no atendida.,50,0,0,Observado,Media,6
+13,Solicitud de acceso a información,Secretaría general,Media,True,Solicitud de copia de documentos administrativos.,49,0,0,Aprobado,Baja,15
+14,Permiso de construcción,Mesa de partes,Baja,False,Permiso para ampliación de vivienda familiar.,45,1,2,Finalizado,Media,15
+15,Constancia municipal,Mesa de partes,Baja,False,Solicitud de constancia para trámite externo.,45,1,1,Registrado,Baja,17
+16,Licencia de funcionamiento,Mesa de partes,Alta,False,Regularización de licencia municipal para establecimiento.,58,0,0,Observado,Alta,3
+17,Reclamo ciudadano,Atención ciudadana,Alta,True,Solicitud de revisión por observación no atendida.,50,0,0,Aprobado,Media,7
+18,Constancia municipal,Secretaría general,Alta,False,Solicitud de constancia para trámite externo.,45,1,0,Aprobado,Media,14
+19,Constancia municipal,Secretaría general,Baja,True,Solicitud de constancia domiciliaria.,37,0,0,Registrado,Baja,14
+20,Licencia de funcionamiento,Licencias,Baja,False,Solicitud para apertura de local comercial.,43,2,0,Rechazado,Media,14
+21,Permiso de construcción,Mesa de partes,Baja,True,Revisión de expediente técnico para obra.,41,0,0,Observado,Baja,17
+22,Reclamo ciudadano,Secretaría general,Media,False,Reclamo por demora en atención de expediente previo.,52,1,2,En revisión,Alta,10
+23,Permiso de construcción,Desarrollo urbano,Baja,True,Permiso para ampliación de vivienda familiar.,45,0,0,Aprobado,Baja,12
+24,Constancia municipal,Mesa de partes,Baja,False,Solicitud de constancia domiciliaria.,37,2,2,Aprobado,Media,17
+25,Permiso de construcción,Mesa de partes,Alta,True,Solicitud de autorización para construcción menor.,50,0,0,Aprobado,Media,8
+26,Solicitud de acceso a información,Mesa de partes,Baja,True,Consulta sobre expediente administrativo.,41,3,0,Registrado,Baja,17
+27,Licencia de funcionamiento,Mesa de partes,Media,False,Solicitud para apertura de local comercial.,43,0,2,Observado,Alta,6
+28,Licencia de funcionamiento,Licencias,Media,False,Solicitud para apertura de local comercial.,43,1,0,Finalizado,Media,13
+29,Constancia municipal,Secretaría general,Alta,True,Emisión de constancia municipal simple.,39,1,0,Aprobado,Baja,15
+30,Trámite de catastro,Catastro,Baja,True,Solicitud de certificado catastral.,35,1,0,En revisión,Baja,16
+31,Trámite de catastro,Catastro,Alta,True,Solicitud de certificado catastral.,35,0,1,Observado,Alta,5
+32,Solicitud de acceso a información,Secretaría general,Media,True,Solicitud de copia de documentos administrativos.,49,3,0,Registrado,Baja,18
+33,Solicitud de acceso a información,Secretaría general,Baja,True,Consulta sobre expediente administrativo.,41,1,0,Observado,Baja,17
+34,Licencia de funcionamiento,Licencias,Media,False,Solicitud para apertura de local comercial.,43,0,0,Observado,Media,10
+35,Reclamo ciudadano,Secretaría general,Media,True,Reclamo por demora en atención de expediente previo.,52,3,0,Observado,Media,13
+36,Constancia municipal,Mesa de partes,Media,True,Solicitud de constancia domiciliaria.,37,0,1,En revisión,Baja,17
+37,Solicitud de acceso a información,Secretaría general,Media,True,Consulta sobre expediente administrativo.,41,1,1,En revisión,Baja,15
+38,Permiso de construcción,Mesa de partes,Baja,False,Revisión de expediente técnico para obra.,41,0,1,En revisión,Media,11
+39,Solicitud de acceso a información,Secretaría general,Media,True,Requerimiento de información pública municipal.,47,0,0,Observado,Baja,16
+40,Permiso de construcción,Desarrollo urbano,Baja,True,Solicitud de autorización para construcción menor.,50,0,1,Observado,Media,9
+41,Constancia municipal,Secretaría general,Media,False,Emisión de constancia municipal simple.,39,0,0,Registrado,Baja,16
+42,Licencia de funcionamiento,Mesa de partes,Baja,False,Solicitud para apertura de local comercial.,43,0,2,Observado,Media,13
+43,Licencia de funcionamiento,Mesa de partes,Baja,False,Regularización de licencia municipal para establecimiento.,58,1,0,Registrado,Media,12
+44,Solicitud de acceso a información,Mesa de partes,Media,True,Consulta sobre expediente administrativo.,41,0,1,Finalizado,Baja,16
+45,Reclamo ciudadano,Secretaría general,Media,True,Queja por falta de respuesta en trámite municipal.,50,0,0,Observado,Media,7
+46,Constancia municipal,Secretaría general,Media,False,Solicitud de constancia para trámite externo.,45,0,0,Aprobado,Baja,20
+47,Reclamo ciudadano,Atención ciudadana,Media,False,Solicitud de revisión por observación no atendida.,50,3,0,Registrado,Alta,11
+48,Permiso de construcción,Mesa de partes,Baja,True,Solicitud de autorización para construcción menor.,50,0,0,Aprobado,Baja,12
+49,Reclamo ciudadano,Atención ciudadana,Media,True,Solicitud de revisión por observación no atendida.,50,0,0,En revisión,Media,6
+50,Reclamo ciudadano,Atención ciudadana,Baja,False,Reclamo por demora en atención de expediente previo.,52,1,0,Aprobado,Media,11
+51,Solicitud de acceso a información,Mesa de partes,Alta,False,Consulta sobre expediente administrativo.,41,1,0,Finalizado,Media,14
+52,Reclamo ciudadano,Secretaría general,Baja,True,Solicitud de revisión por observación no atendida.,50,1,1,Observado,Media,11
+53,Reclamo ciudadano,Atención ciudadana,Media,True,Reclamo por demora en atención de expediente previo.,52,0,1,En revisión,Media,8
+54,Permiso de construcción,Mesa de partes,Media,True,Revisión de expediente técnico para obra.,41,0,0,Aprobado,Media,9
+55,Licencia de funcionamiento,Licencias,Alta,True,Solicitud para apertura de local comercial.,43,1,1,En revisión,Alta,8
+56,Trámite de catastro,Mesa de partes,Media,False,Solicitud de certificado catastral.,35,3,0,Aprobado,Alta,10
+57,Reclamo ciudadano,Secretaría general,Baja,True,Reclamo por demora en atención de expediente previo.,52,1,0,Rechazado,Baja,19
+58,Constancia municipal,Mesa de partes,Alta,True,Emisión de constancia municipal simple.,39,1,0,En revisión,Baja,15
+59,Licencia de funcionamiento,Mesa de partes,Media,True,Renovación de licencia de funcionamiento para negocio.,54,0,1,Aprobado,Media,9
+60,Trámite de catastro,Catastro,Media,False,Actualización de datos catastrales del predio.,46,0,2,Registrado,Alta,5
+61,Permiso de construcción,Desarrollo urbano,Alta,True,Permiso para ampliación de vivienda familiar.,45,0,0,En revisión,Media,10
+62,Reclamo ciudadano,Secretaría general,Media,True,Reclamo por demora en atención de expediente previo.,52,1,0,En revisión,Media,9
+63,Constancia municipal,Mesa de partes,Alta,True,Solicitud de constancia para trámite externo.,45,2,0,Observado,Media,9
+64,Solicitud de acceso a información,Secretaría general,Baja,False,Solicitud de copia de documentos administrativos.,49,2,0,Finalizado,Baja,18
+65,Trámite de catastro,Catastro,Media,True,Actualización de datos catastrales del predio.,46,2,1,Observado,Alta,10
+66,Reclamo ciudadano,Atención ciudadana,Media,False,Solicitud de revisión por observación no atendida.,50,3,0,Finalizado,Alta,15
+67,Constancia municipal,Secretaría general,Baja,True,Emisión de constancia municipal simple.,39,3,0,Rechazado,Baja,20
+68,Constancia municipal,Secretaría general,Baja,True,Emisión de constancia municipal simple.,39,0,0,Observado,Baja,15
+69,Trámite de catastro,Mesa de partes,Media,True,Rectificación de información del inmueble.,42,0,0,Observado,Media,9
+70,Permiso de construcción,Mesa de partes,Media,True,Permiso para ampliación de vivienda familiar.,45,2,0,Observado,Media,11
+71,Solicitud de acceso a información,Mesa de partes,Media,True,Requerimiento de información pública municipal.,47,0,0,Finalizado,Baja,16
+72,Reclamo ciudadano,Secretaría general,Baja,True,Solicitud de revisión por observación no atendida.,50,1,0,En revisión,Baja,14
+73,Solicitud de acceso a información,Mesa de partes,Baja,True,Solicitud de copia de documentos administrativos.,49,1,0,En revisión,Baja,16
+74,Trámite de catastro,Catastro,Baja,True,Actualización de datos catastrales del predio.,46,0,0,Finalizado,Baja,15
+75,Permiso de construcción,Mesa de partes,Baja,True,Solicitud de autorización para construcción menor.,50,0,0,Registrado,Baja,13
+76,Trámite de catastro,Mesa de partes,Baja,True,Solicitud de certificado catastral.,35,0,0,En revisión,Baja,11
+77,Permiso de construcción,Mesa de partes,Baja,True,Revisión de expediente técnico para obra.,41,1,0,Aprobado,Baja,16
+78,Reclamo ciudadano,Secretaría general,Alta,False,Solicitud de revisión por observación no atendida.,50,0,0,Observado,Alta,4
+79,Permiso de construcción,Mesa de partes,Media,True,Permiso para ampliación de vivienda familiar.,45,0,0,Aprobado,Media,9
+80,Solicitud de acceso a información,Mesa de partes,Baja,True,Requerimiento de información pública municipal.,47,1,0,Observado,Baja,13
+81,Solicitud de acceso a información,Secretaría general,Media,True,Solicitud de copia de documentos administrativos.,49,1,1,En revisión,Baja,14
+82,Trámite de catastro,Mesa de partes,Media,True,Rectificación de información del inmueble.,42,0,0,Observado,Media,10
+83,Reclamo ciudadano,Secretaría general,Baja,True,Queja por falta de respuesta en trámite municipal.,50,0,0,Registrado,Baja,11
+84,Permiso de construcción,Desarrollo urbano,Alta,True,Permiso para ampliación de vivienda familiar.,45,0,0,Observado,Media,9
+85,Solicitud de acceso a información,Mesa de partes,Alta,True,Requerimiento de información pública municipal.,47,1,0,Observado,Baja,14
+86,Reclamo ciudadano,Secretaría general,Baja,True,Queja por falta de respuesta en trámite municipal.,50,0,0,Finalizado,Baja,15
+87,Reclamo ciudadano,Atención ciudadana,Media,True,Queja por falta de respuesta en trámite municipal.,50,0,2,Registrado,Media,12
+88,Solicitud de acceso a información,Mesa de partes,Media,True,Consulta sobre expediente administrativo.,41,0,1,Registrado,Baja,19
+89,Permiso de construcción,Mesa de partes,Media,False,Permiso para ampliación de vivienda familiar.,45,0,0,Observado,Media,8
+90,Permiso de construcción,Mesa de partes,Media,True,Permiso para ampliación de vivienda familiar.,45,0,2,Registrado,Media,11
+91,Solicitud de acceso a información,Secretaría general,Media,True,Requerimiento de información pública municipal.,47,1,0,Aprobado,Baja,19
+92,Constancia municipal,Mesa de partes,Media,False,Solicitud de constancia domiciliaria.,37,1,1,Rechazado,Media,15
+93,Trámite de catastro,Catastro,Baja,True,Rectificación de información del inmueble.,42,1,2,Rechazado,Media,11
+94,Reclamo ciudadano,Secretaría general,Baja,False,Reclamo por demora en atención de expediente previo.,52,0,1,En revisión,Media,12
+95,Reclamo ciudadano,Atención ciudadana,Baja,True,Solicitud de revisión por observación no atendida.,50,2,0,Registrado,Media,11
+96,Permiso de construcción,Mesa de partes,Alta,False,Solicitud de autorización para construcción menor.,50,0,0,En revisión,Alta,4
+97,Solicitud de acceso a información,Secretaría general,Baja,False,Requerimiento de información pública municipal.,47,0,0,Finalizado,Baja,15
+98,Constancia municipal,Secretaría general,Alta,True,Solicitud de constancia para trámite externo.,45,2,0,En revisión,Media,8
+99,Solicitud de acceso a información,Mesa de partes,Alta,False,Consulta sobre expediente administrativo.,41,0,0,En revisión,Media,10
+100,Solicitud de acceso a información,Mesa de partes,Alta,True,Requerimiento de información pública municipal.,47,2,0,En revisión,Media,11
+101,Constancia municipal,Secretaría general,Media,False,Emisión de constancia municipal simple.,39,0,0,Rechazado,Baja,18
+102,Permiso de construcción,Desarrollo urbano,Media,True,Solicitud de autorización para construcción menor.,50,0,0,Observado,Media,8
+103,Constancia municipal,Mesa de partes,Baja,False,Emisión de constancia municipal simple.,39,3,0,En revisión,Baja,25
+104,Reclamo ciudadano,Secretaría general,Baja,True,Solicitud de revisión por observación no atendida.,50,0,0,Registrado,Baja,15
+105,Solicitud de acceso a información,Mesa de partes,Baja,True,Solicitud de copia de documentos administrativos.,49,1,0,En revisión,Baja,20
+106,Constancia municipal,Secretaría general,Baja,True,Solicitud de constancia para trámite externo.,45,0,1,Finalizado,Baja,14
+107,Licencia de funcionamiento,Licencias,Baja,True,Solicitud para apertura de local comercial.,43,1,0,Finalizado,Baja,17
+108,Reclamo ciudadano,Atención ciudadana,Baja,False,Solicitud de revisión por observación no atendida.,50,2,0,Aprobado,Media,14
+109,Trámite de catastro,Mesa de partes,Alta,True,Actualización de datos catastrales del predio.,46,0,1,Observado,Alta,6
+110,Trámite de catastro,Catastro,Media,True,Solicitud de certificado catastral.,35,1,0,Observado,Media,10
+111,Trámite de catastro,Catastro,Media,True,Rectificación de información del inmueble.,42,1,1,Finalizado,Media,12
+112,Licencia de funcionamiento,Mesa de partes,Alta,True,Solicitud para apertura de local comercial.,43,0,0,Aprobado,Media,8
+113,Licencia de funcionamiento,Licencias,Baja,True,Regularización de licencia municipal para establecimiento.,58,0,0,Rechazado,Baja,17
+114,Solicitud de acceso a información,Secretaría general,Alta,True,Requerimiento de información pública municipal.,47,2,0,En revisión,Media,10
+115,Reclamo ciudadano,Secretaría general,Alta,False,Solicitud de revisión por observación no atendida.,50,0,0,En revisión,Alta,5
+116,Trámite de catastro,Catastro,Alta,False,Actualización de datos catastrales del predio.,46,2,0,En revisión,Alta,7
+117,Permiso de construcción,Desarrollo urbano,Baja,False,Permiso para ampliación de vivienda familiar.,45,0,0,Observado,Media,10
+118,Licencia de funcionamiento,Mesa de partes,Alta,True,Solicitud para apertura de local comercial.,43,0,0,Observado,Media,6
+119,Licencia de funcionamiento,Licencias,Baja,False,Solicitud para apertura de local comercial.,43,0,0,En revisión,Media,9
+120,Solicitud de acceso a información,Mesa de partes,Media,False,Consulta sobre expediente administrativo.,41,0,1,Aprobado,Media,12
+121,Constancia municipal,Mesa de partes,Alta,True,Solicitud de constancia para trámite externo.,45,2,1,Finalizado,Media,13
+122,Licencia de funcionamiento,Licencias,Alta,False,Regularización de licencia municipal para establecimiento.,58,0,0,En revisión,Alta,6
+123,Trámite de catastro,Catastro,Baja,True,Rectificación de información del inmueble.,42,1,0,Aprobado,Baja,19
+124,Constancia municipal,Secretaría general,Baja,True,Solicitud de constancia para trámite externo.,45,2,0,Aprobado,Baja,18
+125,Permiso de construcción,Mesa de partes,Baja,True,Solicitud de autorización para construcción menor.,50,0,0,Finalizado,Baja,16
+126,Trámite de catastro,Mesa de partes,Alta,True,Actualización de datos catastrales del predio.,46,0,0,Aprobado,Media,6
+127,Licencia de funcionamiento,Mesa de partes,Alta,True,Renovación de licencia de funcionamiento para negocio.,54,1,0,Aprobado,Media,8
+128,Solicitud de acceso a información,Mesa de partes,Alta,False,Requerimiento de información pública municipal.,47,3,0,Finalizado,Media,11
+129,Reclamo ciudadano,Atención ciudadana,Alta,True,Queja por falta de respuesta en trámite municipal.,50,1,0,Aprobado,Media,11
+130,Constancia municipal,Mesa de partes,Media,True,Emisión de constancia municipal simple.,39,1,0,Observado,Baja,17
+131,Licencia de funcionamiento,Licencias,Alta,True,Regularización de licencia municipal para establecimiento.,58,0,0,En revisión,Media,6
+132,Solicitud de acceso a información,Secretaría general,Media,True,Requerimiento de información pública municipal.,47,0,0,Registrado,Baja,12
+133,Permiso de construcción,Desarrollo urbano,Media,True,Solicitud de autorización para construcción menor.,50,0,0,Observado,Media,9
+134,Reclamo ciudadano,Secretaría general,Baja,False,Queja por falta de respuesta en trámite municipal.,50,0,0,Rechazado,Media,14
+135,Solicitud de acceso a información,Mesa de partes,Baja,True,Requerimiento de información pública municipal.,47,1,0,Observado,Baja,15
+136,Trámite de catastro,Mesa de partes,Baja,True,Solicitud de certificado catastral.,35,0,0,Rechazado,Baja,14
+137,Constancia municipal,Secretaría general,Baja,False,Solicitud de constancia domiciliaria.,37,0,0,Rechazado,Baja,20
+138,Reclamo ciudadano,Secretaría general,Baja,True,Solicitud de revisión por observación no atendida.,50,3,0,Registrado,Media,15
+139,Reclamo ciudadano,Atención ciudadana,Baja,True,Queja por falta de respuesta en trámite municipal.,50,1,0,Observado,Baja,17
+140,Permiso de construcción,Desarrollo urbano,Media,True,Solicitud de autorización para construcción menor.,50,1,1,En revisión,Media,10
+141,Licencia de funcionamiento,Licencias,Baja,True,Solicitud para apertura de local comercial.,43,0,1,Observado,Media,8
+142,Reclamo ciudadano,Secretaría general,Media,False,Solicitud de revisión por observación no atendida.,50,0,1,En revisión,Alta,8
+143,Reclamo ciudadano,Atención ciudadana,Media,True,Queja por falta de respuesta en trámite municipal.,50,2,0,Observado,Media,12
+144,Reclamo ciudadano,Secretaría general,Baja,True,Reclamo por demora en atención de expediente previo.,52,0,0,Aprobado,Baja,17
+145,Constancia municipal,Mesa de partes,Media,False,Emisión de constancia municipal simple.,39,1,0,Registrado,Baja,16
+146,Trámite de catastro,Catastro,Media,True,Rectificación de información del inmueble.,42,0,0,Observado,Media,10
+147,Constancia municipal,Mesa de partes,Media,False,Solicitud de constancia para trámite externo.,45,0,1,Finalizado,Media,12
+148,Solicitud de acceso a información,Mesa de partes,Baja,True,Consulta sobre expediente administrativo.,41,1,0,Registrado,Baja,15
+149,Constancia municipal,Mesa de partes,Alta,True,Solicitud de constancia domiciliaria.,37,1,0,Rechazado,Baja,14
+150,Reclamo ciudadano,Secretaría general,Alta,True,Solicitud de revisión por observación no atendida.,50,2,0,Observado,Alta,6
+151,Trámite de catastro,Catastro,Media,True,Rectificación de información del inmueble.,42,0,1,En revisión,Media,8
+152,Permiso de construcción,Desarrollo urbano,Baja,False,Revisión de expediente técnico para obra.,41,0,1,Finalizado,Media,12
+153,Trámite de catastro,Catastro,Media,True,Solicitud de certificado catastral.,35,0,0,Observado,Media,7
+154,Reclamo ciudadano,Atención ciudadana,Media,True,Queja por falta de respuesta en trámite municipal.,50,0,0,En revisión,Media,9
+155,Constancia municipal,Mesa de partes,Baja,False,Emisión de constancia municipal simple.,39,0,1,Observado,Baja,23
+156,Reclamo ciudadano,Secretaría general,Alta,False,Queja por falta de respuesta en trámite municipal.,50,2,0,Observado,Alta,10
+157,Licencia de funcionamiento,Licencias,Baja,False,Solicitud para apertura de local comercial.,43,0,1,En revisión,Media,11
+158,Reclamo ciudadano,Secretaría general,Alta,True,Queja por falta de respuesta en trámite municipal.,50,0,0,Aprobado,Media,6
+159,Permiso de construcción,Desarrollo urbano,Baja,True,Permiso para ampliación de vivienda familiar.,45,1,0,Observado,Baja,14
+160,Reclamo ciudadano,Atención ciudadana,Media,True,Reclamo por demora en atención de expediente previo.,52,1,1,En revisión,Media,10
+161,Constancia municipal,Secretaría general,Baja,True,Emisión de constancia municipal simple.,39,0,0,Registrado,Baja,18
+162,Licencia de funcionamiento,Mesa de partes,Media,True,Solicitud para apertura de local comercial.,43,1,0,En revisión,Media,10
+163,Constancia municipal,Secretaría general,Baja,True,Emisión de constancia municipal simple.,39,1,0,Aprobado,Baja,13
+164,Reclamo ciudadano,Atención ciudadana,Media,False,Reclamo por demora en atención de expediente previo.,52,0,0,Observado,Media,10
+165,Solicitud de acceso a información,Secretaría general,Media,False,Consulta sobre expediente administrativo.,41,0,0,Finalizado,Baja,18
+166,Reclamo ciudadano,Secretaría general,Media,False,Queja por falta de respuesta en trámite municipal.,50,0,1,En revisión,Alta,6
+167,Licencia de funcionamiento,Licencias,Alta,True,Regularización de licencia municipal para establecimiento.,58,0,0,Aprobado,Media,9
+168,Licencia de funcionamiento,Licencias,Baja,False,Renovación de licencia de funcionamiento para negocio.,54,0,0,Aprobado,Media,9
+169,Reclamo ciudadano,Secretaría general,Alta,True,Queja por falta de respuesta en trámite municipal.,50,3,0,En revisión,Alta,10
+170,Solicitud de acceso a información,Mesa de partes,Baja,True,Requerimiento de información pública municipal.,47,2,0,Observado,Baja,14
+171,Solicitud de acceso a información,Mesa de partes,Baja,True,Requerimiento de información pública municipal.,47,0,0,Registrado,Baja,18
+172,Solicitud de acceso a información,Mesa de partes,Media,True,Solicitud de copia de documentos administrativos.,49,1,1,Observado,Baja,15
+173,Constancia municipal,Mesa de partes,Alta,True,Solicitud de constancia domiciliaria.,37,1,1,En revisión,Media,9
+174,Solicitud de acceso a información,Mesa de partes,Media,False,Requerimiento de información pública municipal.,47,0,0,Aprobado,Baja,19
+175,Licencia de funcionamiento,Licencias,Media,True,Solicitud para apertura de local comercial.,43,1,0,Aprobado,Media,7
+176,Constancia municipal,Secretaría general,Alta,True,Solicitud de constancia domiciliaria.,37,1,0,En revisión,Baja,17
+177,Licencia de funcionamiento,Licencias,Alta,True,Solicitud para apertura de local comercial.,43,2,0,Observado,Alta,8
+178,Licencia de funcionamiento,Mesa de partes,Alta,False,Regularización de licencia municipal para establecimiento.,58,1,1,En revisión,Alta,8
+179,Permiso de construcción,Desarrollo urbano,Baja,True,Solicitud de autorización para construcción menor.,50,0,0,Rechazado,Baja,13
+180,Licencia de funcionamiento,Licencias,Baja,False,Renovación de licencia de funcionamiento para negocio.,54,1,0,Observado,Media,12
